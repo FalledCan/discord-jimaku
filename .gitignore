@@ -1,0 +1,14 @@
+# Python / ビルド成果物
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
+
+# 実行時に作られるファイル（認証情報・声紋・会話音声を含むので絶対に公開しない）
+config.json
+token.json
+speakers.json
+log.txt
+models/
+debug_audio/

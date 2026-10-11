@@ -1,0 +1,8 @@
+faster-whisper>=1.1
+numpy
+PyAudioWPatch
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
+pyinstaller
+sherpa-onnx
+soxr
